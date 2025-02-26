@@ -15,7 +15,7 @@ const Navigation = () => {
     <header className={css.appHeader}>
       <nav className={css.appNav}>
         <NavLinkHome>
-          <img src="../../../public/RentalCar.svg" alt="home" />
+          <img src="/RentalCar.svg" alt="home" />
         </NavLinkHome>
         <ul className={css.appMenu}>
           <li>
